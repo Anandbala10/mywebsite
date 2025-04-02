@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anand Balachandran - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Anand Balachandran</h1>
+            <br>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#Skills">Skills</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="about" class="container">
+            <h2>About Me</h2>
+            <p>Hello! I'm Anand Balachandran, a passionate computer science student eager to apply my skills in real-world scenarios. I'm particularly interested in areas like artificial intelligence and machine learning. My projects, such as the Face Recognition Attendance System, AI Alarm System, and Pneumonia Detection using CNN, reflect my commitment to learning and creating impactful solutions.</p>
+            </section>
+
+        <section id="projects" class="container">
+            <h2>Projects</h2>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>Face Recognition Attendance System</h3>
+                    <p>Developed a system to automate attendance using facial recognition technology.</p>
+                    </div>
+                <div class="project-card">
+                    <h3>AI Alarm System</h3>
+                    <p>Created an intelligent alarm system with features powered by artificial intelligence.</p>
+                    </div>
+                <div class="project-card">
+                    <h3>Pneumonia Detection using CNN</h3>
+                    <p>Implemented a Convolutional Neural Network (CNN) model to detect pneumonia from medical images.</p>
+                    </div>
+                </div>
+        </section>
+
+<section id="Skills" class="container">
+    <h2>Skills</h2>
+    <ul>
+        <li><strong>Programming Languages:</strong> Python, Java</li>
+        <li><strong>Web Technologies:</strong> HTML, CSS, JavaScript</li>
+        <li><strong>AI/ML Libraries:</strong> TensorFlow, PyTorch, scikit-learn</li>
+        <li><strong>Tools & Technologies:</strong> Git, GitHub, Jupyter Notebooks</li>
+        <li><strong>Concepts:</strong> Data Structures and Algorithms, Object-Oriented Programming, Machine Learning</li>
+        </ul>
+</section>
+
+        <section id="contact" class="container">
+            <h2>Contact</h2>
+            
+            <ul>
+                <li>Email: <a>anandbalachandran1103@gmail.com</a> </li>
+                <li>LinkedIn: <a href="https://www.linkedin.com/in/anand-balachandran-264459268/" target="_blank">LinkedIn Profile</a> </li>
+                <li>GitHub: <a href="https://github.com/Anandbala10" target="_blank">GitHub Profile</a> </li>
+                </ul>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Anand Balachandran. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
